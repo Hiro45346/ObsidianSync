@@ -46,4 +46,4 @@ Hot Key on Content
 	Ctrl + Shift + N-Key -> Create New folder
 	Ctrl + D-Key -> Duplicate Item 
 	F2-Key -> Rename
-	
+Hot Key in Blueprint
