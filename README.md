@@ -1,3 +1,2 @@
-# ObsidianSync
-Stored Note 
-hello
+# Obsidian Sync
+Stored and sync obsidian note 
