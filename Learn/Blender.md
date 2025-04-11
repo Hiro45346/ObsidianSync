@@ -1,4 +1,5 @@
 Hot Keys
+	W-Key -> Select Object
 	Shift + Middle mouse -> move camera
 	Ctrl + Middle mouse -> zoom out & zoom in
 	N-Key -> Open item side bar
@@ -10,3 +11,14 @@ Hot Keys
 	G-Key -> Move Object
 	R-Key -> Rotate Object
 	S-Key ->  Scale Object
+	Shift + Z-Key -> Switch between solid viewport & wire frame viewport
+	Tab -> Switch between Edit mode & Object mode
+In the Edit mode
+	Ctrl + E-Key -> Extrude
+	Ctrl + I-Key -> Inset
+	Ctrl + B-Key -> Bevel (good when use with edge)
+	Ctrl + R-key -> Loop cut (good when use with edge)
+	
+
+Tips
+	In the edit mode have Vertex, Edge and face
