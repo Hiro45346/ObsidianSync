@@ -7,3 +7,6 @@ Hot Keys
 	1-Key -> Front view
 	3-Key -> Side view
 	7-Key -> Top view
+	G-Key -> Move Object
+	R-Key -> Rotate Object
+	S-Key ->  Scale Object
