@@ -20,6 +20,7 @@ Hot Key on UE5
 	Ctrl + Shift +S -> Save everything (Recommendation)
 	Alt + P -> Enter play mode
 	Alt + S -> Enter simulation mode
+	Alt + C -> Show all collision in scene 
 Hot Key on Viewport scene
 	Select object on outliner + F-Key -> Focus on the actor
 	R-Key -> Scale Actor
