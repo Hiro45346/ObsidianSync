@@ -20,7 +20,8 @@ Hot Key on UE5
 	Ctrl + Shift +S -> Save everything (Recommendation)
 	Alt + P -> Enter play mode
 	Alt + S -> Enter simulation mode
-	Alt + C -> Show all collision in scene 
+	Alt + C -> Show all collision in scene
+	Select object on outliner or content drawer + Ctrl + E-Key -> Open selected item blueprint  
 Hot Key on Viewport scene
 	Select object on outliner + F-Key -> Focus on the actor
 	R-Key -> Scale Actor
@@ -29,4 +30,7 @@ Hot Key on Viewport scene
 		Or space bar -> Switch between all of these (R, E and W)
 	Hold Alt + move actor -> Duplicate actor
 	End Key -> Snap actor to surface
+Hot Key on Content
+	Ctrl + Space bar -> Open content drawer
+	Select object on outliner + Ctrl + B-Key -> find object in content
 	
