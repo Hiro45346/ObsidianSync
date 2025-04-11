@@ -1,3 +1,3 @@
 # ObsidianSync
 Stored Note 
-hellooooooooooooo
+hello
