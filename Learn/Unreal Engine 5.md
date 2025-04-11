@@ -30,7 +30,20 @@ Hot Key on Viewport scene
 		Or space bar -> Switch between all of these (R, E and W)
 	Hold Alt + move actor -> Duplicate actor
 	End Key -> Snap actor to surface
+	Ctrl + (1, 2, ...) -> Create camera bookmark
+	1, 2, ... Key -> Show camera bookmark
+	Shift + F11-Key -> Editor full screen mode
+	F11-Key -> immersive mode
+	G-Key -> Toggle game mode
+	Ctrl + Shift + T-Key -> Toggle tools visibility
+	Ctrl + Shift + H-Key -> Toggle frame rate
+	Select object on outliner + Ctrl + G-Key -> Group actors
+	Select object on outliner + Shift + G-Key -> Ungroup actors
+	Shift + (1, 2, ...) -> Change editor mode
 Hot Key on Content
 	Ctrl + Space bar -> Open content drawer
 	Select object on outliner + Ctrl + B-Key -> find object in content
+	Ctrl + Shift + N-Key -> Create New folder
+	Ctrl + D-Key -> Duplicate Item 
+	F2-Key -> Rename
 	
