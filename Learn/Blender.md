@@ -14,10 +14,10 @@ Hot Keys
 	Shift + Z-Key -> Switch between solid viewport & wire frame viewport
 	Tab -> Switch between Edit mode & Object mode
 In the Edit mode
-	Ctrl + E-Key -> Extrude
+	E-Key -> Extrude
 	Ctrl + I-Key -> Inset
 	Ctrl + B-Key -> Bevel (good when use with edge)
-	Ctrl + R-key -> Loop cut (good when use with edge)
+	R-key -> Loop cut (good when use with edge)
 	
 
 Tips
