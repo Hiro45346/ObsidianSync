@@ -15,9 +15,9 @@ Hot Keys
 	Tab -> Switch between Edit mode & Object mode
 In the Edit mode
 	E-Key -> Extrude
-	Ctrl + I-Key -> Inset
+	I-Key -> Inset
 	Ctrl + B-Key -> Bevel (good when use with edge)
-	R-key -> Loop cut (good when use with edge)
+	Ctrl + R-key -> Loop cut (good when use with edge)
 	
 
 Tips
