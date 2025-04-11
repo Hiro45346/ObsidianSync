@@ -19,6 +19,7 @@ Hot Key on UE5
 	Ctrl + N -> Create new level
 	Ctrl + Shift +S -> Save everything (Recommendation)
 	Alt + P -> Enter play mode
+	Alt + S -> Enter simulation mode
 Hot Key on Viewport scene
 	Select object on outliner + F-Key -> Focus on the actor
 	R-Key -> Scale Actor
