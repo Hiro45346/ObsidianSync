@@ -1,6 +1,7 @@
-## Check port
+## P4 Command
     
-```title: Check port
+```cmd title:CheckPort
 p4 set
+p4 info
 ```
 
