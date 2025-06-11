@@ -45,5 +45,5 @@ Hot Key on Content
 	Select object on outliner + Ctrl + B-Key -> find object in content
 	Ctrl + Shift + N-Key -> Create New folder
 	Ctrl + D-Key -> Duplicate Item 
-	F2-Key -> Rename
+	F2-Key -> Rename 
 Hot Key in Blueprint
