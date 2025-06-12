@@ -10,3 +10,9 @@ mount -o remount,rw /
 ``` title:2.ResetPasswd
 passwd yourusername
 ```
+
+``` title:CheckGPUandMotherboard
+sudo dmidecode -t system
+lspci | grep -i vga
+sudo lshw -c video
+```
