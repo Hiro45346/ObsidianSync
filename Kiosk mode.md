@@ -1,0 +1,2 @@
+check devices
+adb devices
