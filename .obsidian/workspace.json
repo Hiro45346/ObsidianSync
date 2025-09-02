@@ -11,10 +11,14 @@
             "id": "0e6ceb4c5e1e596b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Learn/Game Develop theory.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Game Develop theory"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Learn/Game Develop theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Game Develop theory"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Learn/Game Develop theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Game Develop theory"
             }
           },
           {
@@ -136,20 +142,41 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Learn/Game Develop theory.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Game Develop theory"
+            }
+          },
+          {
+            "id": "2d8477edec69f256",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "05f512b38c3b2ba5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,9 +192,11 @@
   },
   "active": "0e6ceb4c5e1e596b",
   "lastOpenFiles": [
+    "README.md",
+    "Learn/Game Develop theory.md",
+    "2025-W36.md",
     "Untitled.base",
     "Untitled 1.base",
-    "README.md",
     "Learn/Blender.md",
     "Learn/Unreal Engine 5.md",
     "Learn/Unity.md",
