@@ -1,2 +1,0 @@
-check devices
-adb devices
