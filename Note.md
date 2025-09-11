@@ -27,4 +27,5 @@ VR For Accessibility
 		- จากนั้นแปลงค่าให้อยู่ในรูปของ Vector3 และนำมาคูณกับค่าเมทริก 
 		- นำค่าทั้งหมดทำให้อยู่ในรูป Vector4 (มีค่า Alpha แต่เป็น 0) 
 		- นำสีที่ได้มารวมกับภาพจริง
-(Matrix value Ref) https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
+(Matrix value Ref) [1]https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
+[2]https://mk.bcgsc.ca/colorblind/math.mhtml
