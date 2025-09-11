@@ -29,3 +29,17 @@ VR For Accessibility
 		- นำสีที่ได้มารวมกับภาพจริง
 (Matrix value Ref) [1]https://ixora.io/projects/colorblindness/color-blindness-simulation-research/
 [2]https://mk.bcgsc.ca/colorblind/math.mhtml
+
+ตาพร่ามัว (Cataract)
+- วิธีการจำลอง
+	- นำภาพจากกล้องที่สีปกติ (Original) มา 
+	- ทำการสร้าง mask หรือ filter สำหรับทำให้ภาพเบลอโดยใช้สมการของเกาเซียน (Gaussian Blur)
+	- นำภาพที่ได้มาผ่าน filter ที่สร้าง
+สายตาสั้น
+- วิธีการจำลอง
+	- นำภาพจากกล้องที่สีปกติ (Original) มา 
+สายตายาว
+- วิธีการจำลอง
+	- นำภาพจากกล้องที่สีปกติ (Original) มา 
+	- ทำการสร้าง mask หรือ filter สำหรับทำให้ภาพเบลอโดยใช้สมการของเกาเซียน (Gaussian Blur)
+	- ทำการสร้าง mask สำหรับหาความลึกของฉาก
