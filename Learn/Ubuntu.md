@@ -15,4 +15,5 @@ passwd yourusername
 sudo dmidecode -t system
 lspci | grep -i vga
 sudo lshw -c video
+passwd esic
 ```
