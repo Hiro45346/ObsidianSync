@@ -17,3 +17,4 @@ lspci | grep -i vga
 sudo lshw -c video
 passwd esic
 ```
+
