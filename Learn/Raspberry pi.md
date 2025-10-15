@@ -29,9 +29,9 @@ sudo ./install_codecs.sh
 ```
 1. 
 ``` title:RunOnBoot
-python3 <Path file(script)> --> python3 /home/esic/test_button.py
+python3 <Path file> --> python3 /home/esic/test_button.py
 
 sudo crontab -e --> use recomented method
 
-@reboot 
+@reboot <Path file> &
 ```
