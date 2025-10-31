@@ -35,3 +35,15 @@ sudo crontab -e --> use recomented method
 
 @reboot <Path file> &
 ```
+
+Calibrate LED scale
+```Python title:Calibrate
+		self.screen.set_at((0,0),(255,0,0))
+        pygame.draw.rect(self.screen, (255,0,0), pygame.Rect(0,0,512,128),1)
+```
+
+Set Rasp-pi resolution
+``` title:wlr-randr.cmd
+	#Check monitor resolution
+	wlr-randr
+```
