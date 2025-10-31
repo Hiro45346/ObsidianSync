@@ -47,3 +47,47 @@ Set Rasp-pi resolution
 	#Check monitor resolution
 	wlr-randr
 ```
+
+
+## Auto start script
+1.  Make auto run script
+``` title:CreateAutorunFile
+	nano /home/<folder name>/<file name>.sh
+	
+    #Add this script to file
+    
+	# Wait for the desktop/compositor to be fully up
+	sleep 2
+
+	# Make SDL/Pygame use X11 (exact pixel mapping) and start at (0,0)
+	export DISPLAY=:0
+	export SDL_VIDEODRIVER=x11
+	export SDL_VIDEO_CENTERED=0
+	export SDL_VIDEO_WINDOW_POS=0,0
+
+	# Run your app (edit the path to your .py file if different)
+	exec /usr/bin/python3 /home/<folder name>/<file name>.py	
+	
+```
+
+2. Config desktop auto run
+``` title:ConfigAutostart
+	
+	mkdir -p ~/.config/autostart
+	nano ~/.config/autostart/scene-viewer.desktop
+	
+	#Add this script to file
+	[Desktop Entry]
+	Type=Application
+	Name=Scene Viewer
+	Comment=Auto-start Pygame scene viewer
+	Exec=/bin/bash -lc '/home/<folder name>/<file name>.sh'
+	X-GNOME-Autostart-enabled=true
+ 
+
+```
+
+3. reboot Rasp-pi 
+```
+	sudo reboot
+```
