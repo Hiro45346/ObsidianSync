@@ -87,6 +87,7 @@ Set Rasp-pi resolution
 
 ```
 
+	chmod +x /home/esic2/MAB_Esic2.sh
 3. reboot Rasp-pi 
 ```
 	sudo reboot
